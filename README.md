@@ -346,7 +346,7 @@ Wichtig immer im gleichen verzeichniss sein wie das docker compose file sein
 
 ### Docker secrets:
 
-###   
+  
 
 ### ▪ Sie verwenden Secrets für die Übergabe von Passwörtern
 
