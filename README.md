@@ -183,7 +183,7 @@ Stellen Sie sicher, dass alle Ebenen korrekt eingerückt sind. YAML verwendet Le
 
 **Beispiel eines Einrückungsfehlers:**
 
-**```
+```
 services:
   web:
   image: nginx
