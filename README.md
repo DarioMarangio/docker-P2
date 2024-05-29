@@ -57,7 +57,7 @@ Lernziele
 | ```<br>networks:<br>  my_network:<br>    driver: bridge<br>```<br><br>  <br><br><br><br> | #### `networks`<br><br>Definiert Netzwerke, die von den Diensten verwendet werden. Netzwerke ermöglichen die Kommunikation zwischen Containern.<br><br><br> |
 
   
-
+ ```
   
 
 - **`version`**: Version des Compose File Formats.
